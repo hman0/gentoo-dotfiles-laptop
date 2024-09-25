@@ -1,0 +1,19 @@
+# Ignore specific folders in .config
+.config/Mullvad\ VPN/
+.config/pavucontrol.ini
+.config/spotify/
+.config/Thunar/
+.config/pulse/
+.config/user-dirs.dirs
+.config/dconf/
+.config/mpv/
+.config/vesktop/
+.config/neofetch/
+.config/xfce4/
+.config/obs-studio/
+.config/spicetify/
+.config/xsettingsd/
+
+# Include everything else
+!.config/
+
