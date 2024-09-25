@@ -4,7 +4,6 @@
 .config/spotify/
 .config/Thunar/
 .config/pulse/
-.config/user-dirs.dirs
 .config/dconf/
 .config/mpv/
 .config/vesktop/
